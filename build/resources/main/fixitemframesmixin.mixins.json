@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.paradis.fixitemframesmixin.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "fixItemFramesMixin.refmap.json",
+  "mixins": [
+    "MyTrackedEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

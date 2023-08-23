@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+Implementation-Title: fixItemFramesMixin
+MixinConfigs: fixitemframesmixin.mixins.json
+Implementation-Version: 1.1.3
+Specification-Vendor: paradis
+Specification-Title: fixitemframesmixin
+Implementation-Timestamp: 2023-08-23T15:21:53-0300
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+Specification-Version: 1
+Implementation-Vendor: paradis
+
