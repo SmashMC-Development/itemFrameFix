@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "me.paradis.fixitemframesmixin.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "fixItemFramesMixin.refmap.json",
+  "refmap": "mixins.fixitemframesmixin.refmap.json",
   "mixins": [
     "MyTrackedEntityMixin"
   ],

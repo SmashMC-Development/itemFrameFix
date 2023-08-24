@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fixItemFramesMixin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fixItemFramesMixin.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fixItemFramesMixin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fixItemFramesMixin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/me.paradis.fixItemFramesMixin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/me.paradis.fixItemFramesMixin.test.iml" />
     </modules>
   </component>
 </project>
