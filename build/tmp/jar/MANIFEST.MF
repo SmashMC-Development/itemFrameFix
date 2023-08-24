@@ -3,10 +3,8 @@ Specification-Title: fixitemframesmixin
 Specification-Vendor: paradis
 Specification-Version: 1
 Implementation-Title: fixItemFramesMixin
-Implementation-Version: 1.1.6
+Implementation-Version: 1.1.7
 Implementation-Vendor: paradis
-Implementation-Timestamp: 2023-08-24T12:58:03-0300
-TweakClass: org.spongepowered.asm.launch.MixinTweaker
-TweakOrder: 0
+Implementation-Timestamp: 2023-08-24T13:07:01-0300
 MixinConfigs: fixitemframesmixin.mixins.json
 
